@@ -79,3 +79,9 @@ html:only-child > head + body div.app-3xd6d0 > div.app-2CXKsg > div.layers-OrUES
 html:only-child > head + body div.app-3xd6d0 > div.app-2CXKsg > div.layers-OrUESM.layers-1YQhyW > div.layer-86YKbF.baseLayer-W6S8cY + div.layer-86YKbF > div.standardSidebarView-E9Pc3j > div.sidebarRegion-1VBisG > div.sidebarRegionScroller-FXiQOh.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN > nav.sidebar-nqHbhN > div.side-2ur1Qk > div.info-3pQQBb::before {
 	display: none !important;
 }
+html:only-child > head + body div.app-1BipOi > div.app-2CXKsg > div.layers-OrUESM.layers-1YQhyW > div.layer-86YKbF.baseLayer-W6S8cY + div.layer-86YKbF > div.standardSidebarView-E9Pc3j::after {
+	display: none !important;
+}
+html:only-child > head + body div.typeWindows-3ILlhq.titleBar-3AIemB > div.wordmark-3wYFg6::after {
+	disaply: none !important;
+}
