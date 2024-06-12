@@ -85,6 +85,10 @@ html:only-child > head + body div.app-1BipOi > div.app-2CXKsg > div.layers-OrUES
 html:only-child > head + body div.typeWindows-3ILlhq.titleBar-3AIemB > div.wordmark-3wYFg6::after {
 	display: none !important;
 }
+html:only-child > head + body div.typeWindows_e41dab.titleBar__710b0 > div.wordmark__5b8c9::after {
+    display: none !important;
+}
+
 html:only-child > head + body div.app-1BipOi > div.app-2CXKsg > div.layers-OrUESM.layers-1YQhyW > div.layer-86YKbF.baseLayer-W6S8cY + div.layer-86YKbF > div.standardSidebarView-E9Pc3j > div.sidebarRegion-1VBisG > div.sidebarRegionScroller-FXiQOh.thin-RnSY0a.scrollerBase-1Pkza4.fade-27X6bG > nav.sidebar-nqHbhN > div.side-1lrxIh > div.info-3pQQBb::after {
 	display: none !important;
 }
